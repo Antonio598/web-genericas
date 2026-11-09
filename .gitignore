@@ -1,0 +1,9 @@
+# Herramientas locales del editor / agentes
+.claude/
+.agents/
+skills-lock.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
